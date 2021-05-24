@@ -22,7 +22,7 @@ Hello {},
  I am {} ⚙️! A complete group managing bot 🤖,
 Add me in supergroups and promote as admin❗
 
->> Activate Antispam protection in groups by this command : /antispam on 
+>> Activate Antispam protection in groups by this command :  /antispam on 
 
 >> For more commands click /help...
 
