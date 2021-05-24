@@ -18,7 +18,8 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, I am {} ⚙️! A complete group managing bot 🤖,
+Hello {},
+ I am {} ⚙️! A complete group managing bot 🤖,
 Add me in supergroups and promote as admin❗
 
 >> Activate Antispam protection in groups by this command : /antispam on 
